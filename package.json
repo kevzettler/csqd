@@ -1,0 +1,29 @@
+{
+  "name": "csqd",
+  "version": "1.0.0",
+  "description": "Chroma Squad Data utils",
+  "main": "index.js",
+  "dependencies": {
+    "rot": "^0.1.0",
+    "utf8": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kevzettler/csqd.git"
+  },
+  "keywords": [
+    "Chroma",
+    "Squad",
+    "Game"
+  ],
+  "author": "kevzettler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevzettler/csqd/issues"
+  },
+  "homepage": "https://github.com/kevzettler/csqd#readme"
+}
